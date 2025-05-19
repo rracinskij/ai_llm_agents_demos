@@ -1,7 +1,7 @@
 """
 This script demonstrates an Agno agent interacting with simple tools.
 The agent uses the OpenRouter model and can increment or decrement a number by a random value between 0 and 3.
-The agent is tasked to use these tools to reach a target number (20) starting from 10.
+The agent is tasked to use these tools to reach a target number starting from 10.
 Read the debug output to see the tool calls and their results.
 """
 
